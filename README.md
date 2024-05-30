@@ -1,0 +1,2 @@
+# StudyBuddy
+Flutter App
