@@ -46,3 +46,7 @@ Download apk from [here](https://drive.google.com/file/d/1NiBqaLx_fcAMUB2I2Pd0oY
 <img src="add_task.png" width="50%" height="50%" />
 
 
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/Note_app_ddd/count.svg" alt ="Loading">
+
